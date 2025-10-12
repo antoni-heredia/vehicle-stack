@@ -1,0 +1,12 @@
+[submodule "vehicle-data-simulator"]
+	path = vehicle-data-simulator
+	url = https://github.com/antoni-heredia/vehicle-data-simulator.git
+[submodule "vehicle-processing"]
+	path = vehicle-processing
+	url = https://github.com/antoni-heredia/vehicle-processing.git
+[submodule "vehicle-dashboard"]
+	path = vehicle-dashboard
+	url = https://github.com/antoni-heredia/vehicle-dashboard.git
+[submodule "vehicle-realtime-api"]
+	path = vehicle-realtime-api
+	url = https://github.com/antoni-heredia/vehicle-realtime-api.git
