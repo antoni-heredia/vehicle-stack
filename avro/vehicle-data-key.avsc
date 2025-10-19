@@ -1,0 +1,7 @@
+{
+  "type": "record",
+  "name": "VehicleDataKey",
+  "fields": [
+    { "name": "vehicle_id", "type": "string" }
+  ]
+}

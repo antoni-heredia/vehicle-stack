@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "VehicleDataValue",
+  "fields": [
+    { "name": "vehicle_id", "type": "string" },
+    { "name": "lat", "type": "double" },
+    { "name": "lon", "type": "double" },
+    { "name": "speed_kmh", "type": "float" },
+    { "name": "rpm", "type": "int" },
+    { "name": "oil_temp", "type": "float" },
+    { "name": "fuel", "type": "float" },
+    { "name": "timestamp", "type": "long" }
+  ]
+}

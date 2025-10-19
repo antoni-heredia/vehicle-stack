@@ -10,3 +10,6 @@
 [submodule "vehicle-realtime-api"]
 	path = vehicle-realtime-api
 	url = https://github.com/antoni-heredia/vehicle-realtime-api.git
+[submodule "vehicle-warehouse"]
+	path = vehicle-warehouse
+	url = git@github.com:antoni-heredia/vehicle-warehouse.git
